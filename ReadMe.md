@@ -8,15 +8,8 @@ The website is designed as a two-page static hub, with each page styled to match
 
 ---
 
-## 📸 Screenshots
 
-*(You can replace these links with your own screenshots after uploading them to GitHub)*
-
-| Desktop View (TradeX) | Mobile View (TradeX) |
-| :---: | :---: |
-| <img width="600" alt="TradeX Desktop View" src="https_github_readme_images/desktop.png"> | <img width="250" alt="TradeX Mobile View" src="https_github_readme_images/mobile.png"> |
-
-| Nivesh Paheli Page | Event Details |
+| Nivesh Paheli Form | Event Details |
 | :---: | :---: |
 | <img width="600" alt="Nivesh Paheli Page" src="https://i.ibb.co/L8Gj6T7/nivesh-paheli-readme.png"> | <img width="600" alt="Event Details" src="https_github_readme_images/details.png"> |
 
